@@ -362,23 +362,23 @@ PRODUCT_PACKAGES += \
     ZigZagWiFiOverlay
 
 # Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay \
-    BrightnessSliderCyberpunkOverlay \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderGradiantOverlay \
-    BrightnessSliderLeafyOutlineOverlay \
-    BrightnessSliderLightyOverlay \
-    BrightnessSliderLineOverlay \
-    BrightnessSliderMinimalThumbOverlay \
-    BrightnessSliderNeumorphOverlay \
-    BrightnessSliderOldSchoolThumbOverlay \
-    BrightnessSliderOutlineOverlay \
-    BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderThinOverlay \
-    BrightnessSliderThumbSliderOverlay \
-    BrightnessSliderTranslucentOverlay
+#PRODUCT_PACKAGES += \
+#    BrightnessSliderAcunOverlay \
+#    BrightnessSliderBangOverlay \
+#    BrightnessSliderCyberpunkOverlay \
+#    BrightnessSliderFilledOverlay \
+#    BrightnessSliderGradiantOverlay \
+#    BrightnessSliderLeafyOutlineOverlay \
+#    BrightnessSliderLightyOverlay \
+#    BrightnessSliderLineOverlay \
+#    BrightnessSliderMinimalThumbOverlay \
+#    BrightnessSliderNeumorphOverlay \
+#    BrightnessSliderOldSchoolThumbOverlay \
+#    BrightnessSliderOutlineOverlay \
+#    BrightnessSliderRoundedClipOverlay \
+#    BrightnessSliderThinOverlay \
+#    BrightnessSliderThumbSliderOverlay \
+#    BrightnessSliderTranslucentOverlay
 
 # Navbar styles
 PRODUCT_PACKAGES += \
@@ -395,17 +395,17 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay
 
 # QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+#PRODUCT_PACKAGES += \
+#    A11QSUI \
+#    QSOutline \
+#    QSTwoToneAccent \
+#    QSTwoToneAccentTrans \
+#    QSShaded \
+#    QSCyberPunk \
+#    QSNeumorph \
+#    QSReflected \
+#    QSSurround \
+#    QSThin
 
 # Progress Bar Themes
 PRODUCT_PACKAGES += \
@@ -430,8 +430,8 @@ PRODUCT_PACKAGES += \
     PowerLayers
 
 # BetterQS
-PRODUCT_PACKAGES += \
-    BetterQS
+#PRODUCT_PACKAGES += \
+#    BetterQS
 
 # Themes
 PRODUCT_PACKAGES += \
@@ -445,10 +445,10 @@ PRODUCT_PACKAGES += \
 endif
 
 # Utility Overlays
-PRODUCT_PACKAGES += \
-    HideSmartSpace \
-    SmartSpaceOffset \
-    HideClock
+#PRODUCT_PACKAGES += \
+#    HideSmartSpace \
+#    SmartSpaceOffset \
+#    HideClock
 
 # Volume Styles
 PRODUCT_PACKAGES += \
