@@ -11,3 +11,14 @@ android_app_import {
         "androidx.window.sidecar",
     ],
 }
+
+android_app_import {
+    name: "GrapheneCamera",
+    apk: "graphenecamera/GrapheneCamera.apk",
+    preprocessed: true,
+    presigned: true,
+    product_specific: true,
+    overrides: [
+        "Snap, Camera, Camera2, Aperture, Flash, GoogleCameraGo",
+    ],
+}

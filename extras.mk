@@ -13,3 +13,10 @@ ifeq ($(TARGET_INCLUDE_ACCORD),true)
 PRODUCT_PACKAGES += \
     Accord
 endif
+
+# GrapheneCamera
+TARGET_INCLUDE_GRAPHENE_CAMERA ?= true
+ifeq ($(TARGET_INCLUDE_GRAPHENE_CAMERA),true)
+PRODUCT_PACKAGES += \
+    GrapheneCamera
+endif
