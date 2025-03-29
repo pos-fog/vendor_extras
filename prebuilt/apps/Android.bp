@@ -3,9 +3,7 @@ android_app_import {
     apk: "accord/accord.apk",
     certificate: "platform",
     product_specific: true,
-    overrides: [
-        "Twelve",
-    ],
+    overrides: ["Twelve"],
     optional_uses_libs: [
         "androidx.window.extensions",
         "androidx.window.sidecar",
@@ -18,7 +16,5 @@ android_app_import {
     preprocessed: true,
     presigned: true,
     product_specific: true,
-    overrides: [
-        "Snap, Camera, Camera2, Aperture, Flash, GoogleCameraGo",
-    ],
+    overrides: ["Snap", "Camera", "Camera2", "Aperture", "Flash", "GoogleCameraGo"],
 }
