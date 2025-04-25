@@ -8,10 +8,10 @@
 CUSTOM_EXTRAS_PATH := vendor/extras
 
 # Accord
-TARGET_INCLUDE_ACCORD ?= true
-ifeq ($(TARGET_INCLUDE_ACCORD),true)
+TARGET_INCLUDE_GRAMOPHONE ?= true
+ifeq ($(TARGET_INCLUDE_GRAMOPHONE),true)
 PRODUCT_PACKAGES += \
-    Accord
+    Gramophone
 endif
 
 # GrapheneCamera
